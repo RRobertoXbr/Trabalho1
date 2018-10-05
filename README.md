@@ -19,8 +19,10 @@ https://www.youtube.com/watch?v=UiUmCcrV5yo
   
     
 ## Logo abaixo as imagens de como abrir o projeto trabalho 1 .  
-![parte1](https://user-images.githubusercontent.com/43654314/46510979-49f47180-c822-11e8-8127-5965857953ce.jpeg)
+## Parte 1  
+![parte1](https://user-images.githubusercontent.com/43654314/46511059-c5eeb980-c822-11e8-8451-58d92f758e27.jpeg)  
   
-    
-##Parte 2:  
-![parte2](https://user-images.githubusercontent.com/43654314/46511000-6d1f2100-c822-11e8-888f-de483b330416.jpeg)
+##Parte 2  
+![parte22](https://user-images.githubusercontent.com/43654314/46511148-457c8880-c823-11e8-900d-b88fd8352a63.png)
+
+
